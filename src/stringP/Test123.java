@@ -1,6 +1,6 @@
 package stringP;
 
-public class Vowels {
+public class Test123 {
 
 	public static void main(String[] args) {
 		String str = "Welcome";
